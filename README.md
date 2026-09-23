@@ -4,12 +4,6 @@ A visually immersive and interactive **personal portfolio website frontend**, de
 
 ---
 
-## 🔗 Links
-- 🌐 **Live Demo:** [your-live-demo-url.com](https://Siddu-chauhan.vercel.app)]
-- 👨‍💻 **Author's Portfolio:** [Siddu-chauhan.vercel.app](https://Siddu-chauhan.vercel.app )
-
----
-
 ## ⚙️ Core Technologies & Libraries
 - **HTML5**
 - **CSS3**
