@@ -30,11 +30,6 @@ The primary goal of this project was to master and implement advanced frontend a
 ## ⚠️ Asset Disclaimer
 Please note that the 3D models used in this project were **purchased from a third-party marketplace**. The focus of this work was on the frontend development, animation, and integration of these assets, not on 3D modeling itself.
 
----
 
-## 👨‍💻 Author
-**Siddu Chauhan**
-- GitHub: [@Sidduchauhan008](https://github.com/Sidduchauhan008 )
-- LinkedIn: [Sidduchauhan](https://www.linkedin.com/in/Sidduchauhan008 )
 
 ---
